@@ -1,0 +1,17 @@
+2023/02/11 22:04:46 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:04:52 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:04:58 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:05:04 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:05:10 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:05:17 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:05:26 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:05:38 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:05:56 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:06:27 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:07:25 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:08:30 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:09:36 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:10:41 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:11:47 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:12:52 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
+2023/02/11 22:13:58 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:10
